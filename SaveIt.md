@@ -1,1 +1,1 @@
-[Extensions](chrome://extensions/)
+[XMLHttpRequest.send() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send)
