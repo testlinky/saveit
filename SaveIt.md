@@ -1,1 +1,1 @@
-[Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+[Developer Tools - chrome-extension://ocejcihhdfdinkdfaddgobkklgameneo/_generated_background_page.html](chrome-devtools://devtools/bundled/inspector.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@9da914b118cb0d10d715ccc4ad20575a0305a304/&dockSide=undocked)
