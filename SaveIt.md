@@ -1,1 +1,1 @@
-[XMLHttpRequest.send() - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/send)
+[Contents | GitHub Developer Guide](https://developer.github.com/v3/repos/contents/#update-a-file)
